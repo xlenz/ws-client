@@ -2,7 +2,7 @@
 internal usage ws client for sd
 ===============================
 
-required node.js (>6.5.0)
+required https://nodejs.org/en/ 6.5.0 or newer
 
 ## Installation
 
